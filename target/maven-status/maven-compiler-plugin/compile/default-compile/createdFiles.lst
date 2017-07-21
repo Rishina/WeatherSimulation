@@ -1,0 +1,12 @@
+com\cba\weather\repository\WeatherReportingDataImpl.class
+com\cba\weather\repository\WeatherReportingData.class
+com\cba\weather\WeatherReport.class
+com\cba\weather\constants\WeatherConstants.class
+com\cba\weather\service\PressureService.class
+com\cba\weather\service\WeatherReportingService.class
+com\cba\weather\beans\WeatherData.class
+com\cba\weather\service\TemperatureService.class
+com\cba\weather\Weather.class
+com\cba\weather\service\HumidityService.class
+com\cba\weather\service\WeatherConditionService.class
+com\cba\weather\service\WeatherReportingServiceImpl.class
